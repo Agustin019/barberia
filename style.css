@@ -296,7 +296,7 @@ textarea{
     display: grid;
     grid-template-columns: 50% 50%;
     justify-content: center;
-
+    margin-top: 100px;
 }
  
 iframe{
@@ -328,7 +328,7 @@ iframe{
 
 /*---REGISTRO---*/
 .register-cont{
-    margin-top: 200px;
+    margin-top: 70px;
 }
 
 
